@@ -2,4 +2,4 @@
 
 ---
 
-This document and topic is under discussion in the W3C [Privacy Interest Group (PING)](https://www.w3.org/Privacy/IG/). Feel free to open issues and pull requests in [`w3cping/credential-considerations`](https://github.com/w3cping/credential-considerations). Like in all W3C work, participants are expected to follow the [Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/) and maintain a positive work environment.
+This document and topic is under discussion in the W3C [Privacy Working Group](https://www.w3.org/groups/wg/privacy/). Feel free to open issues and pull requests in [`w3c/credential-considerations`](https://github.com/w3c/credential-considerations).
