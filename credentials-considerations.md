@@ -149,6 +149,8 @@ Many of the above risks are greatly increased through the normalization of RWI i
 
 Online RWI identity presentment systems which are designed for relatively rare scenarios (like creating an account for government or financial services) are less risky than those designed for high-frequency operations (like daily signing into a social media product). 
 
+Explicit consent, user activation, and additional forms of user authentication (two-factor, biometric or other heightened confirmation) should be used in order to confirm user consent, support authenticity of presentations, and create sufficient friction in presentation.
+
 #### No phoning home
 
 Issuers should not learn about how, when, or with what verifiers a holder uses their issued credentials.
