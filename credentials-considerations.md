@@ -32,6 +32,8 @@ While usage of some government and financial services cannot always be expected 
 
 Access to government-issued credentials may encourage sites that wish to enforce "real name" policies, with an intent to improve civility or respectful behavior out of an expectation that having a government-issued name will lead to better  behavior. The web's experience with "nymwars" has revealed that real name policies may not have those intended effects; introduce harms to a wide range of people, especially those who are vulnerable in some way; and create a change in power that is counter to privacy, autonomy and control over appropriately presenting identity information.
 
+* Jeff Kosseff. (2022). [How Facebook’s real-name policy changed social media forever](https://web.archive.org/web/20230424111535/https://www.protocol.com/policy/anonymity-real-names-jeff-kosseff). In _The United States of Anonymous_, published at _Protocol_.
+* Matias, J. N. (2017, January 3). [The Real Name Fallacy](https://coralproject.net/blog/the-real-name-fallacy/). Coral by Vox Media.
 * Boyd, D. (2012). [The politics of “real names.”](https://doi.org/10.1145/2240236.2240247) Communications of the ACM, 55(8), 29–31.
 * York, J. C. (2011, July 29). [A Case for Pseudonyms](https://www.eff.org/deeplinks/2011/07/case-pseudonyms). Electronic Frontier Foundation. 
 * [Who is harmed by a “Real Names” policy?](https://geekfeminism.fandom.com/wiki/Who_is_harmed_by_a_%22Real_Names%22_policy%3F) Geek Feminism Wiki.
