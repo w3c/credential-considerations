@@ -46,6 +46,8 @@ Depending on the mechanisms used for presenting identity, there's a risk of plat
 
 When a user has a legitimate need to use their high-assurance identity, there's a risk of that information getting used for scenarios broader than they intended. For example, using a government ID to enable consumption of content not intended for children resulting in a unique identifier being joined to the user's social media profile for the purposes of more effective ad targeting.
 
+Government-issued identity may also misrepresent a person's identity, indicate false or harmful information about them, or be altered or revoked against their wishes.
+
 Some privacy-related questions to consider:
 
 * how are identity characteristics shared with origins? (minimization; control)
@@ -92,6 +94,8 @@ Depending on the mechanisms used for presenting identity, there's a risk that us
 If online accounts are increasingly tied to government real-world identity then are those accounts vulnerable to attack and takeover from any actor who gains access to the government's account signing keys or can otherwise mint government-backed credentials? Will users retain their choice of provider for the root of trust for their online identity? Will all governments protect their security infrastructure adequately, including from external state-sponsored hackers and politically motivated internal actors? Are there governments who will chose to covertly impersonate their citizens online at scale in the name of national security? 
 
 A security breach of a website with legitimate need for RWI could lead to greater consequences for identity theft or the trade of personal user information on illicit markets.
+
+Availability may also be threatened if users rely on government identity to access accounts and services if the government remotely alters or revokes previously issued credentials. 
 
 ## Mitigations
 
